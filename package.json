@@ -6,6 +6,10 @@
     "node": "10.3.0"
   },
   "scripts": {
-  "start": "nodejs/name/file.js"
-}
+    "start": "nodejs/DiscordBot/Bot.js"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2"
+  }
 }
