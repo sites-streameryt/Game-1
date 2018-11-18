@@ -6,7 +6,6 @@
     "node": "10.3.0"
   },
   "scripts": {
-  "start": "node server/server.js"
-  "start1": "node client/client.js"
+  "start": "node server/server.js && node client/client.js"
 }
 }
