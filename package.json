@@ -7,6 +7,6 @@
   },
   "scripts": {
   "start": "node server/server.js"
-  "start": "node client/client.js"
+  "start1": "node client/client.js"
 }
 }
