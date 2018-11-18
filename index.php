@@ -1,4 +1,4 @@
 <?php
-$new_url = 'Ñlient/';
+$new_url = 'php/name';
 header('Location: '.$new_url);
 ?>

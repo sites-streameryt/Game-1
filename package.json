@@ -6,6 +6,6 @@
     "node": "10.3.0"
   },
   "scripts": {
-  "start": "Server/server.js"
+  "start": "nodejs/name/file.js"
 }
 }
