@@ -1,0 +1,2 @@
+web: node index.js -p 28785
+web: echo Start > Start
