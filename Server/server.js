@@ -10,7 +10,7 @@ require('./shooter/actors');
 
 // Start a Server
 Shooter.Server({
-    'port': Math.abs(process.argv[2]) || 28785,
+    'port': Math.abs(process.argv[2]) || 25565,
     'status': false,
     'recordFile': './../record[date].js',
     'record': false,

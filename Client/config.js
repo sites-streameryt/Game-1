@@ -1,1 +1,1 @@
-var HOST = 'streameryt-game-1.herokuapp.com', PORT = 28785;
+var HOST = 'astreoids-game.herokuapp.com', PORT = 25565;
